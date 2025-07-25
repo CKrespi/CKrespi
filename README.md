@@ -13,14 +13,18 @@ Atualmente atuo com **Testes de Software na WK Sistemas** e estou sempre em busc
 
 ---
 
-## 🛠️ Tech Stacks
+## ⚙️ Tech Stacks
 
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=cypress)&nbsp;
 ![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat-square&logo=appium)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat-square&logo=Postman&logoColor=FF6C37)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
+![TestComplete](https://img.shields.io/badge/TestComplete-05122A?style=flat-square&logo=testcomplete&logoColor=00B0F0)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-05122A?style=flat-square&logo=selenium)&nbsp;
+![JMeter](https://img.shields.io/badge/JMeter-05122A?style=flat-square&logo=apache-jmeter&logoColor=D22128)&nbsp;
+![K6](https://img.shields.io/badge/k6-05122A?style=flat-square&logo=k6)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=csharp&logoColor=512BD4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c%23&logoColor=512BD4)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat-square&logo=azure-devops)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-05122A?style=flat-square&logo=git&logoColor=E44C30)&nbsp;
 
