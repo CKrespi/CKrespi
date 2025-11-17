@@ -9,7 +9,7 @@
 ## 🙋‍♂️ Sobre mim
 
 Olá, meu nome é **Cauê Krespi**, tenho 23 anos e sou formado em Gestão da Tecnologia da Informação.  
-Atualmente atuo com **Testes de Software na WK Sistemas** e estou sempre em busca de novos aprendizados no universo tech.
+Atualmente atuo com **Testes de Software** e estou sempre em busca de novos aprendizados no universo tech.
 
 ---
 
