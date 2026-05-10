@@ -27,9 +27,3 @@ Atualmente atuo com **Testes de Software** e estou sempre em busca de novos apre
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat-square&logo=azure-devops)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-05122A?style=flat-square&logo=git&logoColor=E44C30)&nbsp;
-
----
-
-## 📊 Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CKrespi&layout=compact&theme=github_dark)](https://github.com/CKrespi)
